@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^6.0.2"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "zookeeper",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mladen1506/zookeeper.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mladen1506/zookeeper/issues"
+  },
+  "homepage": "https://github.com/Mladen1506/zookeeper#readme",
+  "description": ""
+}
