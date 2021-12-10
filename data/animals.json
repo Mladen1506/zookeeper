@@ -180,6 +180,15 @@
         "hungry"
       ],
       "id": "18"
+    },
+    {
+      "name": "boki",
+      "species": "glavonja",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "19"
     }
   ]
 }
